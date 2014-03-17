@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "Simple hello world server for testing other modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seanzawi/hello-world.git"
+  },
+  "author": "Sean Zawicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanzawi/hello-world/issues"
+  },
+  "homepage": "https://github.com/seanzawi/hello-world"
+}
